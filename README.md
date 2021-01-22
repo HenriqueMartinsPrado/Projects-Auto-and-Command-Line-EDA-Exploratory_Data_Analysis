@@ -47,11 +47,11 @@ This project consists of the files below:
 	│   ├──	EDA - Pandas Profiling - Carros OLX.html	
 	│   ├──	EDA - Sweetviz - Carros OLX.html
     │   ├── Dataset_Carros_OLX.csv           			
-    │   └── kaggle   														# Folder where were stored datasets from Kaggle.
+    │   └── kaggle															# Folder where were stored datasets from Kaggle.
     │       ├── go.html                      			
     │       └── master.html                  			
     │
-	├── plots             													# Plots generated from EDA reports      			
+	├── plots																# Plots generated from EDA reports      			
 	│   ├── BarPlots Average_Fare_by_Embarked_(Ascending).png
 	│   ├── BarPlots Average_Fare_by_Parch_(Ascending).png
 	│   ├── BarPlots Average_Fare_by_Pclass_(Ascending).png
