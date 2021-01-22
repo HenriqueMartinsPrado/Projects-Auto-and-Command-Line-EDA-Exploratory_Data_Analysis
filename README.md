@@ -78,7 +78,6 @@ This project consists of the files below:
 
 <li><p align="justify">Auto-EDA.ipynb: This file contains the codes for importing the libraries, loading the data sets and generating the reports through the pandas_proling and sweetviz libraries.</p>
 <li><p align="justify">Command_Analise_EDA.ipynb: This file contains the codes for importing the libraries, configuring the IDE, enabling the auto complete functionality, loading the CSV, initial analysis using statistics, data reclassifications, data cleaning, checking correlations and presenting results with graphs of the type histogram, boxplots and with two dimensions.</p>
-<li>Report of Web_Scraping_OLX_Carros: In this file, you can check the code developed as well as a report.
 </ul>
 
 ## 4. How to Interact with my project / Results<a name="results"></a>
