@@ -47,11 +47,11 @@ This project consists of the files below:
 	│   ├──	EDA - Pandas Profiling - Carros OLX.html	
 	│   ├──	EDA - Sweetviz - Carros OLX.html
     │   ├── Dataset_Carros_OLX.csv           			
-    │   └── kaggle															# Folder where were stored datasets from Kaggle.
+    │   └── kaggle							# Folder where were stored datasets from Kaggle.
     │       ├── go.html                      			
     │       └── master.html                  			
     │
-	├── plots																# Plots generated from EDA reports      			
+	├── plots							# Plots generated from EDA reports      			
 	│   ├── BarPlots Average_Fare_by_Embarked_(Ascending).png
 	│   ├── BarPlots Average_Fare_by_Parch_(Ascending).png
 	│   ├── BarPlots Average_Fare_by_Pclass_(Ascending).png
@@ -68,9 +68,9 @@ This project consists of the files below:
 	│   ├── PivotPlots.png
 	│   ├── ScatterPlots.png
 	│
-    ├── Auto-EDA.ipynb														# EDA using pandas_profling and also sweetviz	
+    ├── Auto-EDA.ipynb						# EDA using pandas_profling and also sweetviz	
 	│
-    ├── Command_Analise_EDA.ipynb											# EDA using command line using python language as well
+    ├── Command_Analise_EDA.ipynb					# EDA using command line using python language as well
 
 <ul>		
 	<li><p align="justify">Web_Scraping_OLX_Carros: In this file you will find all code developed in python such as the organization and use of the phases to create the web scraping.</p>
@@ -81,10 +81,10 @@ This project consists of the files below:
 
 ## 4. How to Interact with my project / Results<a name="results"></a>
 
-<p align="justify">To interact with this project, just open the jupyter notebook called Web_Scraping_OLX_Carros.ipynb and run the cell with the codes created. A table will be generated with the columns: Value, Title, Mileage, Exchange, Fuel and Location.</p>
+<p align="justify">To interact with this project, just open the jupyter notebooks called Auto-EDA.ipynb or Command_Analise_EDA.ipynb and execute the cells with the codes created.</p>
 
 ## 5. Licensing, Authors, Acknowledgements, etc.<a name="licensing"></a>
 
 <ul>
-	<li><p align="justify">https://www.alura.com.br/conteudo/web-scraping-data-science-python</p>
+	<li><p align="justify">https://www.kaggle.com/datasets</p>
 </ul>
